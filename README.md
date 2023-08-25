@@ -29,7 +29,7 @@ Ich mach ein Programm, wo eine zufällige Zahl generiert wird und der User diese
 |1.1|Pogramm wird geöffnet|Der User gibt ein geratene Zahl ein|Die geratene Zahl wird geprüft, ob sie der random Zahl entspricht. Wenn ja gewinnt der User das Spiel|
 |1.2|Programm wird geöffnet|keine Eingabe|Wenn die geratene Zahl grösser ist als die generierte Zahl, wird ein roter Text ausgeben, dass die Zahl zu gross ist|
 |1.3|Programm wird geöffnet|keine Eingabe|Wenn die geratene Zahl kleiner ist als die generierte Zahl, wird ein roter Text ausgeben, dass die Zahl zu klein ist|
-
+|2.1|Programm wird geöffnet|keine Eingabe|Es gibt ein GUI|
 
 
 
