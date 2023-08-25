@@ -21,6 +21,7 @@ Ich mach ein Programm, wo eine zufällige Zahl generiert wird und der User diese
 |4|muss|funktional|Als User möchte ich, dass ich am Ende sehe wie viel Rateversuche ich gebraucht habe, damit ich weiss, ob ich besser war als vorher.|
 |5|muss|funktional|Als User möchte ich, dass am Ende des Programms die Möglichkeit kommt, das Spiel erneut zu spielen, damit ich nochmal spielen und Spass haben kann.|
 |6|muss|funktional|Als User möchte ich, dass die Rückmeldung mit Farben veranschaulich wird, damit es klarer ist, ob ich richtig oder falsch geraten habe.|
+|7|muss|funktional|Als User möchte ich, dass es nicht möglich ist Zahlen über 100 und unter 0 einzugeben, damit ich keinen Absturz erhalte.|
 
 ### 1.3 Testfälle
 
@@ -30,6 +31,11 @@ Ich mach ein Programm, wo eine zufällige Zahl generiert wird und der User diese
 |1.2|Programm wird geöffnet|keine Eingabe|Wenn die geratene Zahl grösser ist als die generierte Zahl, wird ein roter Text ausgeben, dass die Zahl zu gross ist|
 |1.3|Programm wird geöffnet|keine Eingabe|Wenn die geratene Zahl kleiner ist als die generierte Zahl, wird ein roter Text ausgeben, dass die Zahl zu klein ist|
 |2.1|Programm wird geöffnet|keine Eingabe|Es gibt ein GUI|
+|3.1|Programm wird geöffnet|eine Zahl|Es gibt einen Sound als Rückmeldung|
+|4.1|Zahl wurde erraten|keine Eingabe|Programm zeigt wie viele Versuche man gebraucht hat|
+|5.1|Zahl wurde erraten|keine Eingabe|Programm fragt, ob man nochmal spielen will|
+|6.1|Programm wird geöffnet|eine Zahl|Es gibt einen farbigen Text (je nach geratener Zahl anders) als Rückmeldung|
+|7.1|Programm wird geöffnet|eine Zahl über 100 oder unter 0|Programm gibt aus, dass keine Zahlen über 100 oder unter 0 eingegeben werden können|
 
 
 
