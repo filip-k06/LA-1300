@@ -73,8 +73,8 @@ Ich mach ein Programm, wo eine zufällige Zahl generiert wird und der User diese
 | 2.1  |25.08.23|funktioniert| Kritzner   |
 | 3.1  |25.08.23|funktioniert|   Kritzner    |
 | 4.1  |25.08.23| funktioniert|    Kritzner     |
-| 5.1  |25.08.23|   funktioniert       |     Kritzner  |
-| 6.1  |25.08.23|  funktioniert        |      Nursiwat+Kritzner    |
+| 5.1  |25.08.23|   funktioniert|Kritzner  |
+| 6.1  |25.08.23|  funktioniert        |Kritzner    |
 | 7.1  |25.08.23|     funktioniert     |   Kritzner  |
 
 
