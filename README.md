@@ -3,7 +3,8 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |18.08.2022|0.0.1|Dokumentation angefangen und Planen des Projektes.|
-|25.08.2023| 0.0.2|Dokumentation erweitert, angefangen mit Programm.|        
+|25.08.2023| 0.0.2|Dokumentation erweitert, angefangen mit Programm.|   
+|01.09.2023| 0.0.3|Programm fertig, angefangen zu Testen|   
 
 ## 1 Informieren
 
@@ -37,6 +38,20 @@ Ich mach ein Programm, wo eine zufällige Zahl generiert wird und der User diese
 |6.1|Programm wird geöffnet|eine Zahl|Es gibt einen farbigen Text (je nach geratener Zahl anders) als Rückmeldung|
 |7.1|Programm wird geöffnet|eine Zahl über 100 oder unter 0|Programm gibt aus, dass keine Zahlen über 100 oder unter 0 eingegeben werden können|
 
+
+## 2 Planen
+
+| AP-№ |  Zuständig | Beschreibung | geplante Zeit |
+| ---- | --------- | ------------ | ------------- |
+| 1.A|Kritzner|Der User wird nach einer geratenen Zahl gefragt|60 min|
+| 1.B|Kritzner|Die geratene Zahl wird geprüft ob sie grösser ist|10 min|
+| 1.C|Kritzner|Die geratene Zahl wird geprüft ob sie grösser ist|10 min|
+| 2.A  |Kritzner|Es gibt ein GUI|120 min|
+| 3.A  |Kritzner|Nach Eingabe gibt es einen Sound|40 min|
+|  4.A |Kritzner|Programm zeigt Anzahl Versuche.|20 min|
+|  5.A |Kritzner|Programm fragt, ob man nochmal spielen will|   45 min            |
+|  6.A |Kritzner|Es gibt farbige Rückmeldungen|30 min       | 
+|  7.A |Kritzner|Programm kann Fehleingaben und nichtige Eingaben abfangen|30 min       | 
 
 
 
