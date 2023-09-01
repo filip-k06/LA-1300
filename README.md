@@ -53,7 +53,17 @@ Ich mach ein Programm, wo eine zufällige Zahl generiert wird und der User diese
 |  6.A |Kritzner|Es gibt farbige Rückmeldungen|30 min       | 
 |  7.A |Kritzner|Programm kann Fehleingaben und nichtige Eingaben abfangen|30 min       | 
 
+## 4 Realisieren
 
+| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | ----- | --------- | ------------- | ----------------- |
+| 1.A  |25.08.23|Kritzner|60 min| 65 min                  |
+| 2.A  |25.08.23|Kritzner|10 min|5 min|
+| 3.A  |25.08.23|Kritzner|10 min|5 min|
+| 4.A  |25.08.23|Kritzner|120 min|130min|
+| 5.A  |25.08.23| Kritzner|45 min| 35 min|
+| 6.A  |01.09.23|Kritzner|30 min|20 min|
+| 7.A  |01.09.23|Kritzner|30 min      |25 min        |
 
 
 
