@@ -65,5 +65,17 @@ Ich mach ein Programm, wo eine zufällige Zahl generiert wird und der User diese
 | 6.A  |01.09.23|Kritzner|30 min|20 min|
 | 7.A  |01.09.23|Kritzner|30 min      |25 min        |
 
+### 5 Testprotokoll
+
+| TC-№ | Datum | Resultat | Tester |
+| ---- | ----- | -------- | ------ |
+| 1.1  |25.08.23|      funktioniert   |    Kritzner   |
+| 2.1  |25.08.23|   funktioniert       | Kritzner   |
+| 3.1  |25.08.23|funktioniert          |   Kritzner    |
+| 4.1  |25.08.23| funktioniert nicht         |    Kritzner     |
+| 5.1  |25.08.23|   funktioniert       |     Kritzner  |
+| 6.1  |25.08.23|  funktioniert        |      Nursiwat+Kritzner    |
+| 7.1  |25.08.23|     funktioniert     |   Kritzner  |
+
 
 
