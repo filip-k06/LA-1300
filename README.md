@@ -5,6 +5,7 @@
 |18.08.2022|0.0.1|Dokumentation angefangen und Planen des Projektes.|
 |25.08.2023| 0.0.2|Dokumentation erweitert, angefangen mit Programm.|   
 |01.09.2023| 0.0.3|Programm fertig, angefangen zu Testen|   
+|08.09.2023| 0.0.4|Testprotokol fertig, Portfolio fertig|  
 
 ## 1 Informieren
 
